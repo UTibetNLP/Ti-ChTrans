@@ -1,2 +1,2 @@
-# Ti-Ch_translation
+# Ti-ChTrans
 ## Please wait, it will be open source soon...
